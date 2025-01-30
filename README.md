@@ -49,6 +49,6 @@ I have recently been on the Deno/Bun.js hype, doing some stuff on the side when 
 
 ### 📊 Stats
 
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarun-vv&show_icons=true&theme=gruvbox)
+![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarun-veeraraghavan-mv&show_icons=true&theme=gruvbox)
 
    
