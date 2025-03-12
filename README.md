@@ -1,4 +1,4 @@
-# ✌️ Tarun Veeraraghavan
+# 👋 Tarun Veeraraghavan
 
 **`My motto: I turn good ideas into great software`**
 
