@@ -2,7 +2,7 @@
 
 **`My motto: I turn good ideas into great software`**
 
-I'm a Generative AI Full Stack building my version of the digital world one step at a time. I love to work in Java, Python and TypeScript, but I am happy to use whatever tool is most suited for the job at hand. My three favorite daily activities are attending local tech meetups, contributing to open source projects and posting programming related content on my YouTube channel.
+I'm a Full Stack LLM Engineer building my version of the digital world one step at a time. I love to work in Java, Python and TypeScript, but I am happy to use whatever tool is most suited for the job at hand. My three favorite daily activities are attending local tech meetups, contributing to open source projects and posting programming related content on my YouTube channel.
 
 I have recently been on the Deno/Bun.js hype, doing some stuff on the side when I have time. I'm also interested in the intersection between Server Side Rendering and Single Page Application world, and how we can build client-first webapps that still have ceratin pages that rerender immediately for SEO purposes
 
